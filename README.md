@@ -18,7 +18,7 @@ You can reach me at [LinkedIn](https://www.linkedin.com/in/william-lundqvist-2b6
 </div>
 &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lundqvistwilliam&hide=kotlin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lundqvistwilliam&hide=kotlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
