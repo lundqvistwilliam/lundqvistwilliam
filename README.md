@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### ⚡About Me:
-Currently studing frontend development at **Nackademin** in Sweden.
+Currently studing front end development at **Nackademin** in Sweden.
 <!--
 **lundqvistwilliam/lundqvistwilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
