@@ -1,14 +1,3 @@
-## Hi there 👋
-
-### ⚡About Me 
-Currently studing front end development at [**Nackademin AB**](https://nackademin.se/utbildningar/frontend-utvecklare/) in Sweden.
-
----
-
-### Contact Me
-You can reach me at [LinkedIn](https://www.linkedin.com/in/william-lundqvist-2b6253253/).
-
----
 
 
 <!--
